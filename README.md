@@ -154,3 +154,8 @@ This project is a demo application with mock data for educational purposes.
 - Advanced analytics
 - Social sharing features
 - Multi-language support
+
+## Author
+- ***ABDUL SABOOR***
+
+---
