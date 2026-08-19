@@ -164,3 +164,7 @@ This project is a demo application with mock data for educational purposes.
 Feel free to contribute in this project for the future enhancements..
 
 ---
+
+## MADE WITH 💖
+
+---
